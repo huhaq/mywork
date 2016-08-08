@@ -5,6 +5,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.SortedSet;
 
+/**
+ * Comment
+ */
 public interface IFedFileTask {
     List<String> splitFileIntoWords(File file);
     
